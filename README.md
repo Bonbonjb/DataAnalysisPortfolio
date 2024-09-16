@@ -1,6 +1,6 @@
 # Data Analyst
 
-###Education
+##Education
 BSc. Petroleum Engineering
 
 # Brenda's Data Analyst Portfolio
